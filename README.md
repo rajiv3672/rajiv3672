@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @rajiv3672
 - 👀 I’m interested in Physics, Electricals and electronics
-- 🌱 I’m currently doing undergrad 
+- 🌱 I’m currently doing my undergrad
+- 🚸 Majoring in Physics
+- 🏫 My 2nd major is in EEE 
 - 📫 How to reach me : rajiv36@student.sust.edu rajiv.sust.15@gmail.com
 
 <!---
