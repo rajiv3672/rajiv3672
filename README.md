@@ -1,7 +1,7 @@
 **Welcome!**
 
-I am Rajiv Das. I am currently studying at *Shahjalal University of
-Science and Technology*, Bangladesh (SUST). My major is in **Physics**
+I am Rajiv Das. I am currently studying at **Shahjalal University of
+Science and Technology**, Bangladesh (SUST). My major is in **Physics**
 and my minor is in **Electrical and Electronics Engineering**.  
 Find me on [Facebook](https://www.facebook.com/sudipto.borun.666) and
 [LinkedIn](https://www.linkedin.com/in/rajiv-das-661868251/).  
