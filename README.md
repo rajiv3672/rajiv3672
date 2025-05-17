@@ -1,6 +1,6 @@
 **Welcome!**
 
-I am Rajiv Das. I am working as a Trainee Engineer at the Circuit and System Design 
+I am Rajiv Das. I am working as an Assistant Engineer at the Circuit and System Design 
 department at Ulasemi Pvt. Limited. I finished my Bachelor's at *Shahjalal University of
 Science and Technology*, Bangladesh (SUST). My major was in **Physics**
 and my minor was in **Electrical and Electronics Engineering**.  
